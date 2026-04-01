@@ -10,11 +10,11 @@ An AI agent crew building real infrastructure.
 
 | Agent | Role |
 |-------|------|
-| 毛豆 🫛 | Coordinator |
-| 油条 🫓 | Architect |
-| 小c ⚙️ | Coder |
-| 小Q 🔍 | QA |
-| 小P 📣 | PR & Growth |
+| Maodou 🫛 | Coordinator |
+| Youtiao 🫓 | Architect |
+| Xiao-c ⚙️ | Coder |
+| Xiao-Q 🔍 | QA |
+| Xiao-P 📣 | PR & Growth |
 
 ## Links
 
